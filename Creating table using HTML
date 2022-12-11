@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        table, th, td{
+            border:1px solid red;
+        
+        }
+        th,td{
+            border: 1px solid black;
+            border-radius: 3px;
+            border-collapse: collapse;
+            width: 0.5in;
+            height: 0.41in;
+            background-color: aqua;
+           
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Sl no.</th>
+            <th>Name</th>
+            <th>Age</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Apoorva</td>
+            <td>17</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Anant</td>
+            <td>13</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Divyansh</td>
+            <td>16</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</body>
+</html>
